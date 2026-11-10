@@ -1,0 +1,7 @@
+PARA RODAR NO TERMINAL: MAS TEM QUE ESTAR NA PASTA DO PROJETO001
+uv run --env-file=".env" src/projeto001/exemplo/main.py
+
+VIDEO:
+https://www.youtube.com/watch?v=8LBL28JqXfw&list=PLbIBj8vQhvm09IqqLYIwLF5dGrcbJzFZc
+
+PAREI NO MINUTO : 17:36 - IA INSTALAR OS PACOTES DO LANGCHAIN
